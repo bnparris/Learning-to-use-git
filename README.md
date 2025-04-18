@@ -1,1 +1,1 @@
-This is me trying to figure out how to use git! Hello!! This is a new change
+This is me trying to figure out how to use git! Hello!! WE HAVE A NEW CHANGE
